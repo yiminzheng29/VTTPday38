@@ -1,0 +1,16 @@
+<mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-title>{{model.cityName}}</mat-card-title>
+      <mat-card-subtitle>{{model.description}}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <p>Temperature: {{model.temp}}</p>
+      <p>Humidity: {{model.humidity}}</p>
+      <p>Pressure: {{model.pressure}}</p>
+      <p>Wind Degree: {{model.windDegree}}</p>
+       <p>Wind Speed: {{model.windSpeed}}</p>
+    </mat-card-content>
+    <button mat-icon-button class="example-icon" (click)="sync()" aria-label="Example icon-button with share icon">
+      <mat-icon>Sync</mat-icon>
+    </button>    
+  </mat-card>

@@ -1,0 +1,6 @@
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/services/WeatherDetailsService.java
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/Workshop21Application.java
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/repositories/Queries.java
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/models/WeatherDetails.java
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/repositories/WeatherDetailsRepository.java
+/Users/Yimin/csf/workshopExercises/day38weather/server-sql/src/main/java/sg/edu/nus/pafworkshop21/workshop21/controllers/WeatherDetailsController.java
